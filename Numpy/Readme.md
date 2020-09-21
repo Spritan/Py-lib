@@ -43,8 +43,8 @@ numpy.array
 
 It creates an ndarray from any object exposing array interface, or from any method that returns an array.
 
->```
-numpy.array(object, dtype = None, copy = True, order = None, subok = False, ndmin = 0)
+```
+>numpy.array(object, dtype = None, copy = True, order = None, subok = False, ndmin = 0)
 ```
 
 The above constructor takes the following parameters −
