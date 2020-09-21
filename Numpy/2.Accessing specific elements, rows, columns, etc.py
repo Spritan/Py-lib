@@ -32,7 +32,7 @@ b[0, 1, 1]
 # replace
 b[:, 1, :] = [[9, 9, 9], [8, 8]]
 
-    """
+"""
     ---------------------------------------------------------------------------
     ValueError                                Traceback(most recent call last)
     <ipython-input-34-db1aebb5daad > in < module > ()
@@ -40,6 +40,6 @@ b[:, 1, :] = [[9, 9, 9], [8, 8]]
     --- -> 2 b[:, 1, :] = [[9, 9, 9], [8, 8]]
 
     ValueError: setting an array element with a sequence.
-    """
+"""
 
 b

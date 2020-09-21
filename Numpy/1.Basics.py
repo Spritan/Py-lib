@@ -35,5 +35,3 @@ print(a.nbytes)
     ### a,size
 print(a.size)
 
-
-# Accessing/Changing specific elements, rows, columns, etc
